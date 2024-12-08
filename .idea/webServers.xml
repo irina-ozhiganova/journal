@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ab7ebd07-3def-425a-99cb-3265c2e8a289" name="journal@php_ubuntu">
+        <fileTransfer rootFolder="/var/www/html/journal" accessType="SFTP" host="localhost" port="8022" sshConfigId="18a0f6bc-a7f7-45ed-8ca7-d78d09a8e17d" sshConfig="irina@localhost:8022">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
